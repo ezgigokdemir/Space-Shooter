@@ -1,4 +1,6 @@
 # Space-Shooter
 This application was developed using .C # and Unity.
 
-<iframe src="https://github.com/ezgigokdemir/Space-Shooter/blob/master/Space%20Shooter/ProjectImage/Space%20Shooter%2025.06.2019%2001_49_16.mp4" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+[![Watch the video](https://github.com/ezgigokdemir/Space-Shooter/blob/master/Space%20Shooter/ProjectImage/ss1.png)](https://github.com/ezgigokdemir/Space-Shooter/blob/master/Space%20Shooter/ProjectImage/Space%20Shooter%2025.06.2019%2001_49_16.mp4)
+<img src="https://github.com/ezgigokdemir/Space-Shooter/blob/master/Space%20Shooter/ProjectImage/ss2.png"/>
+<img src="https://github.com/ezgigokdemir/Space-Shooter/blob/master/Space%20Shooter/ProjectImage/ss3.png"/>
